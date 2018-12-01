@@ -34,6 +34,18 @@ Route::get('/goat', function () {
     return view('pages.goat');
 });
 
+Route::get('/login', function () {
+    return view('pages.login');
+});
+
+Route::get('/signup', function () {
+    return view('pages.signup');
+});
+
+
+
+
+
 
 
 

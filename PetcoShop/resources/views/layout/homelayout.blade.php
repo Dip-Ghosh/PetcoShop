@@ -18,6 +18,7 @@ Email:dipghosh638@gmail.com
 <link href="{{asset('frontend/css/style.css')}}" rel="stylesheet" type="text/css" media="all" />
 <link href="{{asset('frontend/css/font-awesome.css')}}" rel="stylesheet">
 <link href="{{asset('frontend/css/easy-responsive-tabs.css')}}" rel='stylesheet' type='text/css'/>
+<link href="{{asset('frontend/css/mine.css')}}" rel='stylesheet' type='text/css'/>
 
 <!-- //for bootstrap working -->
 <link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800" rel="stylesheet">
@@ -30,8 +31,8 @@ Email:dipghosh638@gmail.com
 <div class="header" id="home">
     <div class="container">
         <ul>
-            <li> <a href="#" data-toggle="modal" data-target="#myModal"><i class="fa fa-unlock-alt" aria-hidden="true"></i> Sign In </a></li>
-            <li> <a href="#" data-toggle="modal" data-target="#myModal2"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Sign Up </a></li>
+            <li> <a href="#" data-toggle="modal" data-target="#myModal"></a></li>
+            <li> <a href="#" data-toggle="modal" data-target="#myModal2"> </a></li>
             <li><i class="fa fa-phone" aria-hidden="true"></i> Call :+8801744499902</li>
             <li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailTo:dipghosh638@gmail.com">dipghosh638@gmail.com</a></li>
         </ul>
@@ -119,16 +120,16 @@ Email:dipghosh638@gmail.com
                                 <div class="agile_inner_drop_nav_info">
                                     <div class="col-sm-3 multi-gd-img">
                                         <ul class="multi-column-dropdown">
-                                            <li><a href="Pets.html">Cat</a></li>
-                                            <li><a href="Pets.html">Dog</a></li>
-                                            <li><a href="Pets.html">Bird</a></li>
-                                            <li><a href="Pets.html">Fish</a></li>
+                                            <li><a href="cat">Cat</a></li>
+                                            <li><a href="dog">Dog</a></li>
+                                            <li><a href="bird">Bird</a></li>
+                                            <li><a href="fish">Fish</a></li>
 
                                         </ul>
                                     </div>
 
                                     <div class="col-sm-6 multi-gd-img multi-gd-text ">
-                                        <a href="Pets.html"><img src="{{asset('frontend/images/top1.jpg')}}" alt=" "/></a>
+                                        <a href="Pets"><img src="{{asset('frontend/images/top1.jpg')}}" alt=" "/></a>
                                     </div>
                                     <div class="clearfix"></div>
                                 </div>
@@ -137,11 +138,20 @@ Email:dipghosh638@gmail.com
                     <li class="menu__item dropdown">
                        <a class="menu__link" href="#" class="dropdown-toggle" data-toggle="dropdown">Persons <b class="caret"></b></a>
                                 <ul class="dropdown-menu agile_short_dropdown">
-                                    <li><a href="koshai.html">transporter</a></li>
-                                    <li><a href="transporter.html">Koshai</a></li>
+                                    <li><a href="koshai">Koshai</a></li>
+                                    <li><a href="transporter">Transporter</a></li>
                                 </ul>
                     </li>
-                    <li class=" menu__item"><a class="menu__link" href="contact.html">Contact</a></li>
+
+                     <li class="menu__item dropdown">
+                       <a class="menu__link" href="#" class="dropdown-toggle" data-toggle="dropdown">Registrations <b class="caret"></b></a>
+                                <ul class="dropdown-menu agile_short_dropdown">
+                                    <li><a href="login">Login</a></li>
+                                    <li><a href="signup">Signup</a></li>
+                                </ul>
+                    </li>
+
+                
                   </ul>
                 </div>
               </div>
@@ -246,12 +256,13 @@ Email:dipghosh638@gmail.com
                 <div class="col-md-4 sign-gd">
                     <h4>Our <span>Information</span> </h4>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="Cattle.html">Men's Wear</a></li>
-                        <li><a href="Pets.html">Women's wear</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="typography.html">Short Codes</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="homelayout">Home</a></li>
+                         <li><a href="about">About</a></li>
+                        <li><a href="Cattle">Cattle</a></li>
+                        <li><a href="Pets">Pet</a></li>
+                        <li><a href="Persons">Persons</a></li>
+                        <li><a href="contact">Contact</a></li>
+
                     </ul>
                 </div>
 
@@ -293,15 +304,15 @@ Email:dipghosh638@gmail.com
                 <div class="col-md-3 sign-gd flickr-post">
                     <h4>Flickr <span>Posts</span></h4>
                     <ul>
-                        <li><a href="single.html"><img src="{{asset('frontend/images/t1.jpg')}}" alt=" " class="img-responsive" /></a></li>
-                        <li><a href="single.html"><img src="{{asset('frontend/images/t2.jpg')}}" alt=" " class="img-responsive" /></a></li>
+                        <li><a href="homelayout"><img src="{{asset('frontend/images/t1.jpg')}}" alt=" " class="img-responsive" /></a></li>
+                        <li><a href="homelayout"><img src="{{asset('frontend/images/t2.jpg')}}" alt=" " class="img-responsive" /></a></li>
+                        <li><a href="homelayout"><img src="{{asset('frontend/images/t3.jpg')}}" alt=" " class="img-responsive" /></a></li>
+                        <li><a href="homelayout"><img src="{{asset('frontend/images/t4.jpg')}}" alt=" " class="img-responsive" /></a></li>
+                        <li><a href="homelayout"><img src="{{asset('frontend/images/t1.jpg')}}" alt=" " class="img-responsive" /></a></li>
+                        <li><a href="homelayout"><img src="{{asset('frontend/images/t2.jpg')}}" alt=" " class="img-responsive" /></a></li>
                         <li><a href="single.html"><img src="{{asset('frontend/images/t3.jpg')}}" alt=" " class="img-responsive" /></a></li>
-                        <li><a href="single.html"><img src="{{asset('frontend/images/t4.jpg')}}" alt=" " class="img-responsive" /></a></li>
-                        <li><a href="single.html"><img src="{{asset('frontend/images/t1.jpg')}}" alt=" " class="img-responsive" /></a></li>
-                        <li><a href="single.html"><img src="{{asset('frontend/images/t2.jpg')}}" alt=" " class="img-responsive" /></a></li>
-                        <li><a href="single.html"><img src="{{asset('frontend/images/t3.jpg')}}" alt=" " class="img-responsive" /></a></li>
-                        <li><a href="single.html"><img src="{{asset('frontend/images/t2.jpg')}}" alt=" " class="img-responsive" /></a></li>
-                        <li><a href="single.html"><img src="{{asset('frontend/images/t4.jpg')}}" alt=" " class="img-responsive" /></a></li>
+                        <li><a href="homelayout"><img src="{{asset('frontend/images/t2.jpg')}}" alt=" " class="img-responsive" /></a></li>
+                        <li><a href="homelayout"><img src="{{asset('frontend/images/t4.jpg')}}" alt=" " class="img-responsive" /></a></li>
                     </ul>
                 </div>
                 <div class="clearfix"></div>
