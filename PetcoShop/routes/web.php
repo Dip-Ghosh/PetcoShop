@@ -12,7 +12,28 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('pages.home');
 });
+
+Route::get('/about', function () {
+    return view('pages.about');
+});
+
+Route::get('/cow', function () {
+    return view('pages.cow');
+});
+
+Route::get('/buffalo', function () {
+    return view('pages.buffalo');
+});
+
+Route::get('/camel', function () {
+    return view('pages.camel');
+});
+Route::get('/goat', function () {
+    return view('pages.goat');
+});
+
+
 
 
