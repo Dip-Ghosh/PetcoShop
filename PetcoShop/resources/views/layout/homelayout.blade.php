@@ -51,7 +51,7 @@ Email:dipghosh638@gmail.com
         </div>
         <!-- header-bot -->
             <div class="col-md-4 logo_agile">
-                <h1><a href="index.html"><span>P</span>etco Shop  <i class="fa fa-shopping-bag top_logo_agile_bag" aria-hidden="true"></i></a></h1>
+                <h1><a href="homelayout"><span>P</span>etco Shop  <i class="fa fa-shopping-bag top_logo_agile_bag" aria-hidden="true"></i></a></h1>
             </div>
         <!-- header-bot -->
         <div class="col-md-4 agileits-social top_content">
@@ -101,7 +101,7 @@ Email:dipghosh638@gmail.com
                             <ul class="dropdown-menu multi-column columns-3">
                                 <div class="agile_inner_drop_nav_info">
                                     <div class="col-sm-6 multi-gd-img1 multi-gd-text ">
-                                        <a href="Cattle.html"><img src="{{asset('frontend/images/top2.jpg')}}" alt=" top2image"/></a>
+                                        <a href="Cattle"><img src="{{asset('frontend/images/top2.jpg')}}" alt=" top2image"/></a>
                                     </div>
                                     <div class="col-sm-3 multi-gd-img">
                                         <ul class="multi-column-dropdown">
@@ -139,7 +139,7 @@ Email:dipghosh638@gmail.com
                        <a class="menu__link" href="#" class="dropdown-toggle" data-toggle="dropdown">Persons <b class="caret"></b></a>
                                 <ul class="dropdown-menu agile_short_dropdown">
                                     <li><a href="koshai">Koshai</a></li>
-                                    <li><a href="transporter">Transporter</a></li>
+                                    <li><a href="transport">Transporter</a></li>
                                 </ul>
                     </li>
 
@@ -150,6 +150,7 @@ Email:dipghosh638@gmail.com
                                     <li><a href="signup">Signup</a></li>
                                 </ul>
                     </li>
+                      <li class=" menu__item"><a class="menu__link" href="contact">Contact</a></li>
 
                 
                   </ul>
@@ -233,7 +234,7 @@ Email:dipghosh638@gmail.com
 <div class="footer">
     <div class="footer_agile_inner_info_w3l">
         <div class="col-md-3 footer-left">
-            <h2><a href="index.html"><span>P</span>etco Shop </a></h2>
+            <h2><a href="homelayout"><span>P</span>etco Shop </a></h2>
             <p>This is a online cattle and Petshop where you can only get the cattle and pets
                 but also get the information of Transporters and Koshai informations too.</p>
             <ul class="social-nav model-3d-0 footer-social w3_agile_social two">
@@ -310,7 +311,7 @@ Email:dipghosh638@gmail.com
                         <li><a href="homelayout"><img src="{{asset('frontend/images/t4.jpg')}}" alt=" " class="img-responsive" /></a></li>
                         <li><a href="homelayout"><img src="{{asset('frontend/images/t1.jpg')}}" alt=" " class="img-responsive" /></a></li>
                         <li><a href="homelayout"><img src="{{asset('frontend/images/t2.jpg')}}" alt=" " class="img-responsive" /></a></li>
-                        <li><a href="single.html"><img src="{{asset('frontend/images/t3.jpg')}}" alt=" " class="img-responsive" /></a></li>
+                        <li><a href="homelayout"><img src="{{asset('frontend/images/t3.jpg')}}" alt=" " class="img-responsive" /></a></li>
                         <li><a href="homelayout"><img src="{{asset('frontend/images/t2.jpg')}}" alt=" " class="img-responsive" /></a></li>
                         <li><a href="homelayout"><img src="{{asset('frontend/images/t4.jpg')}}" alt=" " class="img-responsive" /></a></li>
                     </ul>

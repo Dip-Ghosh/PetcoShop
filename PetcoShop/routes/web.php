@@ -34,6 +34,8 @@ Route::get('/goat', function () {
     return view('pages.goat');
 });
 
+
+
 Route::get('/login', function () {
     return view('pages.login');
 });
@@ -41,9 +43,17 @@ Route::get('/login', function () {
 Route::get('/signup', function () {
     return view('pages.signup');
 });
+Route::get('/koshai', function () {
+    return view('pages.koshai');
+});
 
+Route::get('/transport', function () {
+    return view('pages.transport');
+});
 
-
+Route::get('/contact', function () {
+    return view('pages.contact');
+});
 
 
 

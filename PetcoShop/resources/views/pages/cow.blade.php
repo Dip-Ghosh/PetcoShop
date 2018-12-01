@@ -6,14 +6,14 @@
 <!-- /banner_bottom_agile_info -->
 <div class="page-head_agile_info_w3l">
 		<div class="container">
-			<h3>Men's <span>Wear  </span></h3>
+			<h3>Cow's <span>Collections </span></h3>
 			<!--/w3_short-->
 				 <div class="services-breadcrumb">
 						<div class="agile_inner_breadcrumb">
 
 						   <ul class="w3_short">
-								<li><a href="index.html">Home</a><i>|</i></li>
-								<li>Men's Wear</li>
+								<li><a href="homelayout">Home</a><i>|</i></li>
+								<li>Cow </li>
 							</ul>
 						 </div>
 				</div>
@@ -39,14 +39,14 @@
 										<img src="{{asset('frontend/images/m1.jpg')}}" alt="" class="pro-image-back">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="single.html">Indian Cow</a></h4>
+										<h4><a href="homelayout">Indian Cow</a></h4>
 										<div class="info-product-price">
 											<span class="item_price">72000 BDT</span>
 											<del>82000 BDT</del>
@@ -78,14 +78,14 @@
 										<img src="{{asset('frontend/images/m2.jpg')}}" alt="" class="pro-image-back">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="single.html">Hariana Cow</a></h4>
+										<h4><a href="homelayout">Hariana Cow</a></h4>
 										<div class="info-product-price">
 											<span class="item_price">172000 BDT</span>
 											<del>182000 BDT</del>
@@ -117,14 +117,14 @@
 										<img src="{{asset('frontend/images/m3.jpg')}}" alt="" class="pro-image-back">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="single.html">Hariana Cow</a></h4>
+										<h4><a href="homelayout">Hariana Cow</a></h4>
 										<div class="info-product-price">
 											<span class="item_price">199999 BDT</span>
 											<del>230000 BDT</del>
@@ -156,14 +156,14 @@
 										<img src="{{asset('frontend/images/m4.jpg')}}" alt="" class="pro-image-back">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="single.html">Gaolao</a></h4>
+										<h4><a href="homelayout">Gaolao</a></h4>
 										<div class="info-product-price">
 											<span class="item_price">78000 BDT</span>
 											<del>88000 BDT</del>
@@ -195,14 +195,14 @@
 										<img src="{{asset('frontend/images/m5.jpg')}}" alt="" class="pro-image-back">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="single.html">Ongole Cow</a></h4>
+										<h4><a href="homelayout">Ongole Cow</a></h4>
 										<div class="info-product-price">
 											<span class="item_price">72000 BDT</span>
 											<del>82000 BDT</del>
@@ -234,14 +234,14 @@
 										<img src="{{asset('frontend/images/m7.jpg')}}" alt="" class="pro-image-back">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="single.html">Australian Cow</a></h4>
+										<h4><a href="homelayout">Australian Cow</a></h4>
 										<div class="info-product-price">
 											<span class="item_price">120000 BDT</span>
 											<del>126000 BDT</del>
@@ -273,14 +273,14 @@
 										<img src="{{asset('frontend/images/m6.jpg')}}" alt="" class="pro-image-back">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="single.html">Desi Cow</a></h4>
+										<h4><a href="homelayout">Desi Cow</a></h4>
 										<div class="info-product-price">
 											<span class="item_price">56000 BDT</span>
 											<del>60000 BDT</del>
@@ -312,14 +312,14 @@
 										<img src="{{asset('frontend/images/m8.jpg')}}" alt="" class="pro-image-back">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="single.html">Ponwar Cow</a></h4>
+										<h4><a href="homelayout">Ponwar Cow</a></h4>
 										<div class="info-product-price">
 											<span class="item_price">120000 BDT</span>
 											<del>130000 BDT</del>
