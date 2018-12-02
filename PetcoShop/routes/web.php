@@ -71,3 +71,11 @@ Route::get('/contact', function () {
 
 
 
+// backend part --
+
+Route::get('/', 'HomeController@index');
+
+Route::get('/admin', 'AdminController@index');
+
+Route::get('/dashboard', 'AdminController@showDashboard');
+Route::post('/admin-dashboard', 'AdminController@dashboard');
