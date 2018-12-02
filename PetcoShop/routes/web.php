@@ -34,7 +34,19 @@ Route::get('/goat', function () {
     return view('pages.goat');
 });
 
+Route::get('/cat', function () {
+    return view('pages.cat');
+});
 
+Route::get('/dog', function () {
+    return view('pages.dog');
+});
+Route::get('/bird', function () {
+    return view('pages.bird');
+});
+Route::get('/fish', function () {
+    return view('pages.fish');
+});
 
 Route::get('/login', function () {
     return view('pages.login');
