@@ -6,14 +6,14 @@
 <!-- /banner_bottom_agile_info -->
 <div class="page-head_agile_info_w3l">
 		<div class="container">
-			<h3>Cow's <span>Collections </span></h3>
+			<h3>Bird's <span>Collections </span></h3>
 			<!--/w3_short-->
 				 <div class="services-breadcrumb">
 						<div class="agile_inner_breadcrumb">
 
 						   <ul class="w3_short">
 								<li><a href="homelayout">Home</a><i>|</i></li>
-								<li>Cow </li>
+								<li>Bird </li>
 							</ul>
 						 </div>
 				</div>

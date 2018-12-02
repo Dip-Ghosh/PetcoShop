@@ -6,14 +6,14 @@
 <!-- /banner_bottom_agile_info -->
 <div class="page-head_agile_info_w3l">
 		<div class="container">
-			<h3>Cow's <span>Collections </span></h3>
+			<h3>Fish's <span>Collections </span></h3>
 			<!--/w3_short-->
 				 <div class="services-breadcrumb">
 						<div class="agile_inner_breadcrumb">
 
 						   <ul class="w3_short">
 								<li><a href="homelayout">Home</a><i>|</i></li>
-								<li>Cow </li>
+								<li>Fish </li>
 							</ul>
 						 </div>
 				</div>
@@ -46,10 +46,10 @@
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="homelayout">Indian Cow</a></h4>
+										<h4><a href="homelayout">Gold Fish</a></h4>
 										<div class="info-product-price">
-											<span class="item_price">72000 BDT</span>
-											<del>82000 BDT</del>
+											<span class="item_price">700 BDT</span>
+											<del>820 BDT</del>
 										</div>
 										<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
 															<form action="#" method="post">
@@ -85,10 +85,10 @@
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="homelayout">Hariana Cow</a></h4>
+										<h4><a href="homelayout">Black tetra</a></h4>
 										<div class="info-product-price">
-											<span class="item_price">172000 BDT</span>
-											<del>182000 BDT</del>
+											<span class="item_price">1000 BDT</span>
+											<del>1900 BDT</del>
 										</div>
 										<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
 															<form action="#" method="post">
@@ -124,10 +124,10 @@
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="homelayout">Hariana Cow</a></h4>
+										<h4><a href="homelayout">Cobia </a></h4>
 										<div class="info-product-price">
-											<span class="item_price">199999 BDT</span>
-											<del>230000 BDT</del>
+											<span class="item_price">500 BDT</span>
+											<del>800 BDT</del>
 										</div>
 										<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
 															<form action="#" method="post">
@@ -163,10 +163,10 @@
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="homelayout">Gaolao</a></h4>
+										<h4><a href="homelayout">Elver Gaolao</a></h4>
 										<div class="info-product-price">
-											<span class="item_price">78000 BDT</span>
-											<del>88000 BDT</del>
+											<span class="item_price">780 BDT</span>
+											<del>880 BDT</del>
 										</div>
 										<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
 															<form action="#" method="post">
@@ -202,10 +202,10 @@
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="homelayout">Ongole Cow</a></h4>
+										<h4><a href="homelayout">Elephant fish</a></h4>
 										<div class="info-product-price">
-											<span class="item_price">72000 BDT</span>
-											<del>82000 BDT</del>
+											<span class="item_price">70 BDT</span>
+											<del>200 BDT</del>
 										</div>
 										<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
 															<form action="#" method="post">
@@ -241,10 +241,10 @@
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="homelayout">Australian Cow</a></h4>
+										<h4><a href="homelayout"> Firefish</a></h4>
 										<div class="info-product-price">
-											<span class="item_price">120000 BDT</span>
-											<del>126000 BDT</del>
+											<span class="item_price">2000 BDT</span>
+											<del>6000 BDT</del>
 										</div>
 										<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
 															<form action="#" method="post">
@@ -280,10 +280,10 @@
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="homelayout">Desi Cow</a></h4>
+										<h4><a href="homelayout">Goldeye</a></h4>
 										<div class="info-product-price">
-											<span class="item_price">56000 BDT</span>
-											<del>60000 BDT</del>
+											<span class="item_price">5600 BDT</span>
+											<del>6000 BDT</del>
 										</div>
 										<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
 															<form action="#" method="post">
@@ -319,10 +319,10 @@
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="homelayout">Ponwar Cow</a></h4>
+										<h4><a href="homelayout">Pumping Lemma</a></h4>
 										<div class="info-product-price">
-											<span class="item_price">120000 BDT</span>
-											<del>130000 BDT</del>
+											<span class="item_price">1000 BDT</span>
+											<del>1300 BDT</del>
 										</div>
 										<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
 															<form action="#" method="post">
