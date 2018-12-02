@@ -3,18 +3,17 @@
 @section('content')
 
 
-
 <!-- /banner_bottom_agile_info -->
 <div class="page-head_agile_info_w3l">
 		<div class="container">
-			<h3>Men's <span>Wear  </span></h3>
+			<h3>Camel's <span>Collections </span></h3>
 			<!--/w3_short-->
 				 <div class="services-breadcrumb">
 						<div class="agile_inner_breadcrumb">
 
 						   <ul class="w3_short">
-								<li><a href="index.html">Home</a><i>|</i></li>
-								<li>Men's Wear</li>
+								<li><a href="homelayout">Home</a><i>|</i></li>
+								<li>Camel </li>
 							</ul>
 						 </div>
 				</div>
@@ -36,21 +35,21 @@
 			<div class="col-md-3 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="images/m1.jpg" alt="" class="pro-image-front">
-										<img src="images/m1.jpg" alt="" class="pro-image-back">
+										<img src="{{asset('frontend/images/c1.jpg')}}" alt="" class="pro-image-front">
+										<img src="{{asset('frontend/images/c1.jpg')}}" alt="" class="pro-image-back">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="single.html">Indian Cow</a></h4>
+										<h4><a href="homelayout">Indian Camel</a></h4>
 										<div class="info-product-price">
-											<span class="item_price">72000 BDT</span>
-											<del>82000 BDT</del>
+											<span class="item_price">720000 BDT</span>
+											<del>820000 BDT</del>
 										</div>
 										<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
 															<form action="#" method="post">
@@ -75,21 +74,21 @@
 							<div class="col-md-3 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="images/m2.jpg" alt="" class="pro-image-front">
-										<img src="images/m2.jpg" alt="" class="pro-image-back">
+										<img src="{{asset('frontend/images/c2.jpg')}}" alt="" class="pro-image-front">
+										<img src="{{asset('frontend/images/c2.jpg')}}" alt="" class="pro-image-back">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="single.html">Hariana Cow</a></h4>
+										<h4><a href="homelayout">Arabian Camel</a></h4>
 										<div class="info-product-price">
-											<span class="item_price">172000 BDT</span>
-											<del>182000 BDT</del>
+											<span class="item_price">1720000 BDT</span>
+											<del>1820000 BDT</del>
 										</div>
 										<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
 															<form action="#" method="post">
@@ -114,21 +113,21 @@
                             <div class="col-md-3 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="images/m3.jpg" alt="" class="pro-image-front">
-										<img src="images/m3.jpg" alt="" class="pro-image-back">
+										<img src="{{asset('frontend/images/c3.jpg')}}" alt="" class="pro-image-front">
+										<img src="{{asset('frontend/images/c3.jpg')}}" alt="" class="pro-image-back">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="single.html">Hariana Cow</a></h4>
+										<h4><a href="homelayout">Brotanica Camel</a></h4>
 										<div class="info-product-price">
-											<span class="item_price">199999 BDT</span>
-											<del>230000 BDT</del>
+											<span class="item_price">1999990 BDT</span>
+											<del>2300000 BDT</del>
 										</div>
 										<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
 															<form action="#" method="post">
@@ -153,21 +152,21 @@
 							<div class="col-md-3 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="images/m4.jpg" alt="" class="pro-image-front">
-										<img src="images/m4.jpg" alt="" class="pro-image-back">
+										<img src="{{asset('frontend/images/c4.jpg')}}" alt="" class="pro-image-front">
+										<img src="{{asset('frontend/images/c4.jpg')}}" alt="" class="pro-image-back">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="single.html">Gaolao</a></h4>
+										<h4><a href="homelayout">Hybrid Camel</a></h4>
 										<div class="info-product-price">
-											<span class="item_price">78000 BDT</span>
-											<del>88000 BDT</del>
+											<span class="item_price">780000 BDT</span>
+											<del>880000 BDT</del>
 										</div>
 										<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
 															<form action="#" method="post">
@@ -192,21 +191,21 @@
 							<div class="col-md-3 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="images/m5.jpg" alt="" class="pro-image-front">
-										<img src="images/m5.jpg" alt="" class="pro-image-back">
+										<img src="{{asset('frontend/images/c5.jpg')}}" alt="" class="pro-image-front">
+										<img src="{{asset('frontend/images/c5.jpg')}}" alt="" class="pro-image-back">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="single.html">Ongole Cow</a></h4>
+										<h4><a href="homelayout">Inrani Cow</a></h4>
 										<div class="info-product-price">
-											<span class="item_price">72000 BDT</span>
-											<del>82000 BDT</del>
+											<span class="item_price">720000 BDT</span>
+											<del>820000 BDT</del>
 										</div>
 										<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
 															<form action="#" method="post">
@@ -231,21 +230,21 @@
 								<div class="col-md-3 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="images/m7.jpg" alt="" class="pro-image-front">
-										<img src="images/m7.jpg" alt="" class="pro-image-back">
+										<img src="{{asset('frontend/images/c7.jpg')}}" alt="" class="pro-image-front">
+										<img src="{{asset('frontend/images/c7.jpg')}}" alt="" class="pro-image-back">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="single.html">Australian Cow</a></h4>
+										<h4><a href="homelayout">Philipian Cow</a></h4>
 										<div class="info-product-price">
-											<span class="item_price">120000 BDT</span>
-											<del>126000 BDT</del>
+											<span class="item_price">1200000 BDT</span>
+											<del>1260000 BDT</del>
 										</div>
 										<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
 															<form action="#" method="post">
@@ -270,21 +269,21 @@
 								<div class="col-md-3 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="images/m6.jpg" alt="" class="pro-image-front">
-										<img src="images/m6.jpg" alt="" class="pro-image-back">
+										<img src="{{asset('frontend/images/c6.jpg')}}" alt="" class="pro-image-front">
+										<img src="{{asset('frontend/images/c6.jpg')}}" alt="" class="pro-image-back">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="single.html">Desi Cow</a></h4>
+										<h4><a href="homelayout">Iraki Cow</a></h4>
 										<div class="info-product-price">
-											<span class="item_price">56000 BDT</span>
-											<del>60000 BDT</del>
+											<span class="item_price">560000 BDT</span>
+											<del>600000 BDT</del>
 										</div>
 										<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out button2">
 															<form action="#" method="post">
@@ -309,18 +308,18 @@
 								<div class="col-md-3 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="images/m8.jpg" alt="" class="pro-image-front">
-										<img src="images/m8.jpg" alt="" class="pro-image-back">
+										<img src="{{asset('frontend/images/c8.jpg')}}" alt="" class="pro-image-front">
+										<img src="{{asset('frontend/images/c8.jpg')}}" alt="" class="pro-image-back">
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
-													<a href="single.html" class="link-product-add-cart">Quick View</a>
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
 											<span class="product-new-top">New</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="single.html">Ponwar Cow</a></h4>
+										<h4><a href="homelayout">Forest Camel</a></h4>
 										<div class="info-product-price">
 											<span class="item_price">120000 BDT</span>
 											<del>130000 BDT</del>
@@ -352,4 +351,3 @@
 <!-- //Cattle -->
 
 @endsection
-
