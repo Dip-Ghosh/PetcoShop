@@ -6,14 +6,14 @@
 <!-- /banner_bottom_agile_info -->
 <div class="page-head_agile_info_w3l">
 		<div class="container">
-			<h3>Koshai's<span>Infromations </span></h3>
+			<h3>Transporter's<span>Infromations </span></h3>
 			<!--/w3_short-->
 				 <div class="services-breadcrumb">
 						<div class="agile_inner_breadcrumb">
 
 						   <ul class="w3_short">
 								<li><a href="homelayout"> Home</a><i>|</i></li>
-								<li> Koshai</li>
+								<li> Transporters</li>
 							</ul>
 						 </div>
 				</div>
@@ -22,7 +22,7 @@
 </div>
 
   <!-- banner-bootom-w3-agileits -->
-	<div class="banner-bootom-w3-agileits">
+<div class="banner-bootom-w3-agileits">
 	<div class="container">
          <!-- Cattle -->
 		
@@ -32,11 +32,11 @@
 
 
 		<div class="single-pro">
-			<div class="col-md-3 product-men">
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="{{asset('frontend/koshai/k1.jpg')}}" alt="" class="pro-image-front">
-										 <img src="{{asset('frontend/koshai/k1.jpg')}}" alt="" class="pro-image-back"> 
+										<img src="{{asset('frontend/transporter/tr13.jpg')}}" alt="" class="pro-image-front">
+										 <img src="{{asset('frontend/transporter/tr13.jpg')}}" alt="" class="pro-image-back"> 
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
 													<a href="homelayout" class="link-product-add-cart">Quick View</a>
@@ -46,66 +46,21 @@
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="homelayout">Abul</a></h4>
+										<h4><a href="homelayout">Kahim</a></h4>
 										<div class="info-product-price">
-    									<p>Call: +8801955933241</p>
-      									<span class="item_price">1500 per Piece BDT</span>
+    									<p>Call: +8801744499913</p>
+      									<span class="item_price">3000 per Piece BDT</span>
 										</div>
 										
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
-								<div class="men-pro-item simpleCart_shelfItem">
-									<div class="men-thumb-item">
-										<img src="{{asset('frontend/koshai/k2.jpg')}}" alt="" class="pro-image-front">
-										 <img src="{{asset('frontend/koshai/k2.jpg')}}" alt="" class="pro-image-back"> 
-											<div class="men-cart-pro">
-												<div class="inner-men-cart-pro">
-													<a href="homelayout" class="link-product-add-cart">Quick View</a>
-												</div>
-											</div>
-											<span class="product-new-top">Goat speacilist</span>
 
-									</div>
-									<div class="item-info-product ">
-										<h4><a href="homelayout">Rahman </a></h4>
-										<div class="info-product-price">
-    									<p>Call: +8801755352587</p>
-      									<span class="item_price">700 per Piece BDT</span>
-										</div>
-										
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3 product-men">
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="{{asset('frontend/koshai/k3.jpg')}}" alt="" class="pro-image-front">
-										 <img src="{{asset('frontend/koshai/k3.jpg')}}" alt="" class="pro-image-back"> 
-											<div class="men-cart-pro">
-												<div class="inner-men-cart-pro">
-													<a href="homelayout" class="link-product-add-cart">Quick View</a>
-												</div>
-											</div>
-											<span class="product-new-top"> Most First working Koshai</span>
-
-									</div>
-									<div class="item-info-product ">
-										<h4><a href="homelayout">Abu Talha </a></h4>
-										<div class="info-product-price">
-    									<p>Call: +8801840812195</p>
-      									<span class="item_price">500 per  Piece BDT</span>
-										</div>
-										
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3 product-men">
-								<div class="men-pro-item simpleCart_shelfItem">
-									<div class="men-thumb-item">
-										<img src="{{asset('frontend/koshai/k4.jpg')}}" alt="" class="pro-image-front">
-										 <img src="{{asset('frontend/koshai/k4.jpg')}}" alt="" class="pro-image-back"> 
+										<img src="{{asset('frontend/transporter/tr14.jpg')}}" alt="" class="pro-image-front">
+										 <img src="{{asset('frontend/transporter/tr14.jpg')}}" alt="" class="pro-image-back"> 
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
 													<a href="homelayout" class="link-product-add-cart">Quick View</a>
@@ -115,66 +70,117 @@
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="homelayout">Raisul</a></h4>
+										<h4><a href="homelayout">Joynal</a></h4>
 										<div class="info-product-price">
-    									<p>Call: +880178963258</p>
-      									<span class="item_price">400 Per Piece BDT</span>
+    									<p>Call: +8801744499915</p>
+      									<span class="item_price">2500 per Piece BDT</span>
 										</div>
 										
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="{{asset('frontend/koshai/k5.jpg')}}" alt="" class="pro-image-front">
-										 <img src="{{asset('frontend/koshai/k5.jpg')}}" alt="" class="pro-image-back"> 
+										<img src="{{asset('frontend/transporter/tr15.jpg')}}" alt="" class="pro-image-front">
+										 <img src="{{asset('frontend/transporter/tr15.jpg')}}" alt="" class="pro-image-back"> 
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
 													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
-											<span class="product-new-top">Perfect Finisher </span>
+											<span class="product-new-top"> Well Trained Koshai</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="homelayout">Proloy</a></h4>
+										<h4><a href="homelayout">Asraful </a></h4>
 										<div class="info-product-price">
-    									<p>Call: +8801744499989</p>
-      									<span class="item_price">950 per Piece BDT</span>
+    									<p>Call: +01900011008</p>
+      									<span class="item_price">1800 per  Piece BDT</span>
 										</div>
 										
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="{{asset('frontend/koshai/k6.jpg')}}" alt="" class="pro-image-front">
-										 <img src="{{asset('frontend/koshai/k6.jpg')}}" alt="" class="pro-image-back"> 
+										<img src="{{asset('frontend/transporter/tr16.jpg')}}" alt="" class="pro-image-front">
+										 <img src="{{asset('frontend/transporter/tr16.jpg')}}" alt="" class="pro-image-back"> 
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
 													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
-											<span class="product-new-top">New</span>
+											<span class="product-new-top"> Fast Cutter Koshai</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="homelayout"> Monty</a></h4>
+										<h4><a href="homelayout">Robiul</a></h4>
 										<div class="info-product-price">
-    									<p>Call: +8801748598609</p>
-      									<span class="item_price">560 per Piece BDT</span>
+    									<p>Call: +8801744499954</p>
+      									<span class="item_price">1400 Per Piece BDT</span>
 										</div>
 										
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="{{asset('frontend/koshai/k7.jpg')}}" alt="" class="pro-image-front">
-										 <img src="{{asset('frontend/koshai/k7.jpg')}}" alt="" class="pro-image-back"> 
+										<img src="{{asset('frontend/transporter/tr17.jpg')}}" alt="" class="pro-image-front">
+										 <img src="{{asset('frontend/transporter/tr17.jpg')}}" alt="" class="pro-image-back"> 
+											<div class="men-cart-pro">
+												<div class="inner-men-cart-pro">
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
+												</div>
+											</div>
+											<span class="product-new-top">Finishing Master</span>
+
+									</div>
+									<div class="item-info-product ">
+										<h4><a href="homelayout">Paly</a></h4>
+										<div class="info-product-price">
+    									<p>Call: +8801744499908</p>
+      									<span class="item_price">2100 per Piece BDT</span>
+										</div>
+										
+									</div>
+								</div>
+							</div>
+
+							<div class="col-md-4 product-men">
+								<div class="men-pro-item simpleCart_shelfItem">
+									<div class="men-thumb-item">
+										<img src="{{asset('frontend/transporter/tr18.jpg')}}" alt="" class="pro-image-front">
+										 <img src="{{asset('frontend/transporter/tr18.jpg')}}" alt="" class="pro-image-back"> 
+											<div class="men-cart-pro">
+												<div class="inner-men-cart-pro">
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
+												</div>
+											</div>
+											<span class="product-new-top">Most Jolly Koshai</span>
+
+									</div>
+									<div class="item-info-product ">
+										<h4><a href="homelayout"> Mani</a></h4>
+										<div class="info-product-price">
+    									<p>Call: +8801744499999</p>
+      									<span class="item_price">1760 per Piece BDT</span>
+										</div>
+										
+									</div>
+								</div>
+							</div>
+
+							<div class="col-md-4 product-men">
+								<div class="men-pro-item simpleCart_shelfItem">
+									<div class="men-thumb-item">
+										<img src="{{asset('frontend/transporter/tr19.jpg')}}" alt="" class="pro-image-front">
+										 <img src="{{asset('frontend/transporter/tr19.jpg')}}" alt="" class="pro-image-back"> 
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
 													<a href="homelayout" class="link-product-add-cart">Quick View</a>
@@ -184,20 +190,21 @@
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="homelayout">Jack Ma</a></h4>
+										<h4><a href="homelayout">BILL Sum</a></h4>
 										<div class="info-product-price">
-    									<p>Call: +801744499900</p>
-      									<span class="item_price">1000 per Hour BDT</span>
+    									<p>Call: +801744499908</p>
+      									<span class="item_price">1000 per Piece BDT</span>
 										</div>
 										
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="{{asset('frontend/koshai/k8.jpg')}}" alt="" class="pro-image-front">
-										 <img src="{{asset('frontend/koshai/k8.jpg')}}" alt="" class="pro-image-back"> 
+										<img src="{{asset('frontend/transporter/tr20.jpg')}}" alt="" class="pro-image-front">
+										 <img src="{{asset('frontend/transporter/tr20.jpg')}}" alt="" class="pro-image-back"> 
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
 													<a href="homelayout" class="link-product-add-cart">Quick View</a>
@@ -210,87 +217,111 @@
 										<h4><a href="homelayout"> Robi</a></h4>
 										<div class="info-product-price">
     									<p>Call: +8801744499913</p>
-      									<span class="item_price">600 por Hour BDT</span>
+      									<span class="item_price">600 por Piece BDT</span>
 										</div>
 										
 									</div>
 								</div>
 							</div>
-						
-							<div class="col-md-3 product-men">
+
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="{{asset('frontend/koshai/k10.jpg')}}" alt="" class="pro-image-front">
-										 <img src="{{asset('frontend/koshai/k10.jpg')}}" alt="" class="pro-image-back"> 
+										<img src="{{asset('frontend/transporter/tr21.jpg')}}" alt="" class="pro-image-front">
+										 <img src="{{asset('frontend/transporter/tr21.jpg')}}" alt="" class="pro-image-back"> 
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
 													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
-											<span class="product-new-top">Foreign Return Trained Driver</span>
+											<span class="product-new-top"> Trained Koshai</span>
 
 									</div>
 									<div class="item-info-product ">
-										<h4><a href="homelayout">Rafsul</a></h4>
+										<h4><a href="homelayout">Rafiq</a></h4>
 										<div class="info-product-price">
-    									<p>Call: +8801744499915</p>
-      									<span class="item_price">3200 per Hour BDT</span>
+    									<p>Call: +8801744499903</p>
+      									<span class="item_price">900 per Piece BDT</span>
 										</div>
 										
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="{{asset('frontend/koshai/k11.jpg')}}" alt="" class="pro-image-front">
-										 <img src="{{asset('frontend/koshai/k11.jpg')}}" alt="" class="pro-image-back"> 
+										<img src="{{asset('frontend/transporter/tr22.jpg')}}" alt="" class="pro-image-front">
+										 <img src="{{asset('frontend/transporter/tr22.jpg')}}" alt="" class="pro-image-back"> 
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
 													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
-											<span class="product-new-top">Most  Qualified Trained Driver</span>
+											<span class="product-new-top">Foreign Return Trained Koshai</span>
+
+									</div>
+									<div class="item-info-product ">
+										<h4><a href="homelayout">Joe</a></h4>
+										<div class="info-product-price">
+    									<p>Call: +8801744499915</p>
+      									<span class="item_price">3200 per Piece BDT</span>
+										</div>
+										
+									</div>
+								</div>
+							</div>
+
+							<div class="col-md-4 product-men">
+								<div class="men-pro-item simpleCart_shelfItem">
+									<div class="men-thumb-item">
+										<img src="{{asset('frontend/transporter/tr23.jpg')}}" alt="" class="pro-image-front">
+										 <img src="{{asset('frontend/transporter/tr23.jpg')}}" alt="" class="pro-image-back"> 
+											<div class="men-cart-pro">
+												<div class="inner-men-cart-pro">
+													<a href="homelayout" class="link-product-add-cart">Quick View</a>
+												</div>
+											</div>
+											<span class="product-new-top">Master Trained Koshai</span>
 
 									</div>
 									<div class="item-info-product ">
 										<h4><a href="homelayout">Shovo</a></h4>
 										<div class="info-product-price">
     									<p>Call: +8801744499919</p>
-      									<span class="item_price">3500 per Hour BDT</span>
+      									<span class="item_price">3500 per Piece BDT</span>
 										</div>
 										
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
-										<img src="{{asset('frontend/koshai/k12.jpg')}}" alt="" class="pro-image-front">
-										 <img src="{{asset('frontend/koshai/k12.jpg')}}" alt="" class="pro-image-back"> 
+										<img src="{{asset('frontend/transporter/tr24.jpg')}}" alt="" class="pro-image-front">
+										 <img src="{{asset('frontend/transporter/tr24.jpg')}}" alt="" class="pro-image-back"> 
 											<div class="men-cart-pro">
 												<div class="inner-men-cart-pro">
 													<a href="homelayout" class="link-product-add-cart">Quick View</a>
 												</div>
 											</div>
-											<span class="product-new-top">New Driver</span>
+											<span class="product-new-top">New Koshai</span>
 
 									</div>
 									<div class="item-info-product ">
 										<h4><a href="homelayout">Rabbi</a></h4>
 										<div class="info-product-price">
     									<p>Call: +8801744499918</p>
-      									<span class="item_price">400  Per Hour BDT</span>
+      									<span class="item_price">400  Per Piece BDT</span>
 										</div>
 										
 									</div>
 								</div>
 							</div>
+ 				 </div>
+		</div>
+</div>
 
-</div>
-</div>
-</div>
-<!-- //Cattle -->
 
 
 

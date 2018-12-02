@@ -32,7 +32,7 @@
 
 
 		<div class="single-pro">
-			<div class="col-md-3 product-men">
+			<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
 										<img src="{{asset('frontend/transporter/tr1.jpg')}}" alt="" class="pro-image-front">
@@ -55,7 +55,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
 										<img src="{{asset('frontend/transporter/tr2.jpg')}}" alt="" class="pro-image-front">
@@ -78,7 +78,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
 										<img src="{{asset('frontend/transporter/tr3.jpg')}}" alt="" class="pro-image-front">
@@ -101,7 +101,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
 										<img src="{{asset('frontend/transporter/tr4.jpg')}}" alt="" class="pro-image-front">
@@ -124,7 +124,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
 										<img src="{{asset('frontend/transporter/tr5.jpg')}}" alt="" class="pro-image-front">
@@ -147,7 +147,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
 										<img src="{{asset('frontend/transporter/tr6.jpg')}}" alt="" class="pro-image-front">
@@ -170,7 +170,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
 										<img src="{{asset('frontend/transporter/tr7.jpg')}}" alt="" class="pro-image-front">
@@ -193,7 +193,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
 										<img src="{{asset('frontend/transporter/tr8.jpg')}}" alt="" class="pro-image-front">
@@ -216,7 +216,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
 										<img src="{{asset('frontend/transporter/tr9.jpg')}}" alt="" class="pro-image-front">
@@ -239,7 +239,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
 										<img src="{{asset('frontend/transporter/tr10.jpg')}}" alt="" class="pro-image-front">
@@ -262,7 +262,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
 										<img src="{{asset('frontend/transporter/tr11.jpg')}}" alt="" class="pro-image-front">
@@ -285,7 +285,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 product-men">
+							<div class="col-md-4 product-men">
 								<div class="men-pro-item simpleCart_shelfItem">
 									<div class="men-thumb-item">
 										<img src="{{asset('frontend/transporter/tr12.jpg')}}" alt="" class="pro-image-front">
